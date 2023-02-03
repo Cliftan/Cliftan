@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 SFU Comp Sci - Aspiring Fullstack Developer
 -------------------------------------------
 
-\I'm a first-year student at SFU majoring in computing science
+I'm a first-year student at SFU majoring in computing science
 
 * 🌍  I'm based in Vancouver
 * ✉️  You can contact me at [clifton3833@gmail.com](mailto:clifton3833@gmail.com)
