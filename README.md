@@ -9,7 +9,7 @@ I'm a first-year student at SFU majoring in computing science
 * 🌍  I'm based in Vancouver
 * ✉️  You can contact me at [clifton3833@gmail.com](mailto:clifton3833@gmail.com)
 * 🧠  I'm learning HTML, CSS and C
-* 🤝  I'm open to collaborating on interesting projects (mainly in python
+* 🤝  I'm open to collaborating on interesting projects (mainly in python)
 
 ### Skills
 
